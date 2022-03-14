@@ -48,4 +48,4 @@ Screenshot
 =====
 Here is screenshot of django-customize-history
 
-![alt text](https://raw.githubusercontent.com/mayur-softices/djnago-customize-history/main/docs/_static/img_5terre.jpg)
+![alt text](https://raw.githubusercontent.com/mayur-softices/djnago-customize-history/main/docs/_static/Change-history-CrudUser-object-5-Django-site-admin.png)
