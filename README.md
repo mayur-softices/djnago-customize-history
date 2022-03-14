@@ -43,3 +43,9 @@ admin.py e.g.:
     @admin.register(ExampleModel)
     class ExampleModelAdmin(DjangoCustomHistory, admin.ModelAdmin):
         ...
+
+Screenshot
+=====
+Here is screenshot of django-customize-history
+
+![alt text](https://raw.githubusercontent.com/mayur-softices/djnago-customize-history/main/docs/_static/img_5terre.jpg)
